@@ -1,0 +1,10 @@
+main
+main.bookstore.domain
+main.bookstore.domain.validators
+main.controller
+main.exceptions
+main.repository
+main.ui
+tests
+tests.bookstore.domain.validators
+tests.repository

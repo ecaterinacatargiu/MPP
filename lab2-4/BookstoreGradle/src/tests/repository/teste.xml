@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<publisher>
+            
+    
+    <client id="1922895321923">
+                        
+        
+        <cnp>1922895321923</cnp>
+                        
+        
+        <yob>Tue Feb 11 00:00:00 EET 2014</yob>
+                        
+        
+        <gender>male</gender>
+                    
+    
+    </client>
+        
+    
+    <client id="1922895321924">
+                
+        <cnp>1922895321923</cnp>
+                
+        <yob>Tue Feb 11 00:00:00 EET 2014</yob>
+                
+        <gender>male</gender>
+            
+    </client>
+    
+    <client id="1922895321925">
+        <cnp>1922895321923</cnp>
+        <yob>Tue Feb 11 00:00:00 EET 2014</yob>
+        <gender>male</gender>
+    </client>
+</publisher>
